@@ -70,3 +70,4 @@ C:\Users\rados\code\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
 C:\Users\rados\code\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
 C:\Users\rados\code\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.genruntimeconfig.cache
 C:\Users\rados\code\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CopyComplete
+C:\Users\rados\code\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurant\List.cshtml.g.cs
